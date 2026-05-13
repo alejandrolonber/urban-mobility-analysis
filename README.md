@@ -1,2 +1,18 @@
-# urban-mobility-analysis
-Data analysis project exploring the correlation between urban traffic congestion and GDP per capita using Python.
+# Urban Mobility & Economic Productivity Analysis
+
+## 📋 Project Overview
+This project investigates the macroeconomic impact of urban traffic congestion on economic productivity across major global cities. By analyzing transit delays alongside localized financial metrics, the study aims to quantify the hidden economic costs of mobility inefficiencies.
+
+## 🛠️ Tech Stack & Methodologies
+* **Language:** Python
+* **Libraries:** Pandas (Data Wrangling & Cleaning), NumPy (Numerical Operations), Matplotlib & Seaborn (Exploratory Data Analysis & Visualizations)
+* **Core Skills:** Statistical Analysis, Data Aggregation, Structural Dataset Merging.
+
+## 📊 Key Insights & Deliverables
+* **Exploratory Data Analysis (EDA):** Investigated distribution patterns, identified structural outliers, and analyzed core correlations between congestion percentages and GDP metrics.
+* **Economic Impact:** Uncovered actionable data points detailing how severe traffic bottlenecks correlate with decelerations in GDP per capita performance.
+
+## 🏃 How to Run the Project
+1. Clone this repository.
+2. Ensure you have Python installed along with the required libraries: `pip install pandas numpy matplotlib seaborn`
+3. Open and run the Jupyter Notebook: `S5 ladb_mobility_economy_project_student.ipynb`
