@@ -11,8 +11,3 @@ This project investigates the macroeconomic impact of urban traffic congestion o
 ## 📊 Key Insights & Deliverables
 * **Exploratory Data Analysis (EDA):** Investigated distribution patterns, identified structural outliers, and analyzed core correlations between congestion percentages and GDP metrics.
 * **Economic Impact:** Uncovered actionable data points detailing how severe traffic bottlenecks correlate with decelerations in GDP per capita performance.
-
-## 🏃 How to Run the Project
-1. Clone this repository.
-2. Ensure you have Python installed along with the required libraries: `pip install pandas numpy matplotlib seaborn`
-3. Open and run the Jupyter Notebook: `S5 ladb_mobility_economy_project_student.ipynb`
